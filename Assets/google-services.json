@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "332361889391",
+    "firebase_url": "https://fly-bee-game.firebaseio.com",
+    "project_id": "fly-bee-game",
+    "storage_bucket": "fly-bee-game.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:332361889391:android:44ac64c50e209ad9",
+        "android_client_info": {
+          "package_name": "com.MezbaUnity.DemoFireBaseUnity"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "332361889391-s9tdg9350vh93a62i252o9v1h99v1pdl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.MezbaUnity.DemoFireBaseUnity",
+            "certificate_hash": "b64085289e0f47dd1c1fce52303691342fa8bbbe"
+          }
+        },
+        {
+          "client_id": "332361889391-ijfoc8e4q2n2tosshd28j74057dc292q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNlmI3w0HvHc71rkb_iKPkt4vAa3yryyk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "332361889391-ijfoc8e4q2n2tosshd28j74057dc292q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

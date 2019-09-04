@@ -1,0 +1,5 @@
+/apks
+/obj
+*.csproj
+*.sln
+Menu.userprefs
